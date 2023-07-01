@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        // Crear objetos de las clases Edificio, Auto y Bicicleta
+        // Crear objetos clases Edificio, Auto y Bicicleta
         Edificio edificio = new Edificio();
         Auto auto = new Auto();
         Bicicleta bicicleta = new Bicicleta();
